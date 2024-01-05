@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Circular Std;
+    font-weight: 900;
+    font-style: normal;
+    src: local("Circular Std")
+             url("../fonts/CircularStd-Black.woff2") format('woff2'),
+             url("../fonts/CircularStd-Black.woff") format('woff'),
+             url("../fonts/CircularStd-Black.eot") format('eot');
+}
+@font-face {
+    font-family: Circular Std;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Circular Std")
+             url("../fonts/CircularStd-Bold.woff2") format('woff2'),
+             url("../fonts/CircularStd-Bold.woff") format('woff'),
+             url("../fonts/CircularStd-Bold.eot") format('eot');
+}
+@font-face {
+    font-family: Circular Std;
+    font-weight: 450;
+    font-style: normal;
+    src: local("Circular Std")
+             url("../fonts/CircularStd-Medium.woff2") format('woff2'),
+             url("../fonts/CircularStd-Medium.woff") format('woff'),
+             url("../fonts/CircularStd-Medium.eot") format('eot');
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: normal;
+    src: local("Roboto")
+             url("../fonts/AnyConv.com__Roboto-Bold.woff2") format('woff2'),
+             url("../fonts/AnyConv.com__Roboto-Bold.woff") format('woff'),
+             url("../fonts/AnyConv.com__Roboto-Bold.eot") format('eot');
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Roboto")
+             url("../fonts/AnyConv.com__Roboto-Regular.woff2") format('woff2'),
+             url("../fonts/AnyConv.com__Roboto-Regular.woff") format('woff'),
+             url("../fonts/AnyConv.com__Roboto-Regular.eot") format('eot');
+}
